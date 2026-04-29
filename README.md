@@ -13,7 +13,7 @@ This project implements a UART transceiver using **Verilog HDL**. The design is 
 
 ## Simulation Result
 
-![Simulation](docs/simulation.png)
+![Simulation](img/Multisim_Simulation.png)
 
 
 ## Hardware Transmission
