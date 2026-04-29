@@ -13,14 +13,21 @@ This project implements a UART transceiver using **Verilog HDL**. The design is 
 
 ## Simulation Result
 
-![Simulation](img/Multisim_Simulation.png)
-
+<p align="center">
+  <img src="img/Multisim_Simulation.png" width="700"/>
+</p>
 
 ## Hardware Transmission
 
-![Setup](docs/setup.jpg)
-![Transmission 1](docs/transmission1.jpg)
-![Transmission 2](docs/transmission2.jpg)
-![Transmission 3](docs/transmission3.jpg)
-
----
+<table>
+  <tr>
+    <td align="center"><b>Oscilloscope TX</b></td>
+    <td align="center"><b>with Own Receiver</b></td>
+    <td align="center"><b>FPGA to FPGA</b></td>
+  </tr>
+  <tr>
+    <td><img src="img/tx_oscilloscope.jpeg" width="300"/></td>
+    <td><img src="img/own.jpeg" width="300"/></td>
+    <td><img src="img/between_2_FPGAs.jpeg" width="300"/></td>
+  </tr>
+</table>
