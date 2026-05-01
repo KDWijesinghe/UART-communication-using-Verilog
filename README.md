@@ -10,13 +10,6 @@ In a typical UART system, the transmitter converts parallel data into serial for
 
 This project implements a UART transceiver using **Verilog HDL**. The design is first verified through simulation using a testbench and then implemented on the **DE0-Nano FPGA board**. Successful communication is demonstrated by connecting the TX and RX pins between two FPGA boards.
 
-
-## Simulation Result
-
-<p align="center">
-  <img src="img/Multisim_Simulation.png" width="700"/>
-</p>
-
 ## Hardware Transmission
 
 <table>
@@ -31,3 +24,9 @@ This project implements a UART transceiver using **Verilog HDL**. The design is 
     <td><img src="img/between_2_FPGAs.jpeg" width="300"/></td>
   </tr>
 </table>
+
+## Simulation Result
+
+<p align="center">
+  <img src="img/Multisim_Simulation.png" width="1000"/>
+</p>
