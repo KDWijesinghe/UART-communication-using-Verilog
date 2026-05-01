@@ -19,14 +19,14 @@ This project implements a UART transceiver using **Verilog HDL**. The design is 
     <td align="center"><b>FPGA-to-FPGA Communication</b></td>
   </tr>
   <tr>
-    <td><img src="img/uart_tx_waveform_oscilloscope.jpg" width="300"/></td>
-    <td><img src="img/uart_loopback_single_fpga.jpg" width="300"/></td>
-    <td><img src="img/uart_fpga_to_fpga_communication.jpg" width="300"/></td>
+    <td><img src="img/uart_tx_waveform_oscilloscope.jpeg" width="300"/></td>
+    <td><img src="img/uart_loopback_single_fpga.jpeg" width="300"/></td>
+    <td><img src="img/uart_fpga_to_fpga_communication.jpeg" width="300"/></td>
   </tr>
 </table>
 
 ## Simulation Result
 
 <p align="center">
-  <img src="img/uart_simulation_waveform.png" width="800"/>
+  <img src="img/Multisim_Simulation.png" width="800"/>
 </p>
